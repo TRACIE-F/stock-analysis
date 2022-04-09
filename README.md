@@ -5,7 +5,7 @@ Green stock analysis.
 
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-!(2017_Run_Time_And_Table)[https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/2017%20Run%20Time%20and%20Table.png]
+![VBA_Challenge_2017](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 ## Summary of Advantage and Disadvantage of VBA Re-factoring
 
