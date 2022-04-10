@@ -1,11 +1,33 @@
 # Stock Analysis
-Green stock analysis.
+An analysis of green stocks to determine buying behavior.
 
 # Overview of Project: Explain the purpose of this analysis.
+This analysis is to help 
 
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-!(2017_Run_Time_And_Table)[https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/2017%20Run%20Time%20and%20Table.png]
+Below are the stock summaries for various green stocks in 2017 and 2018.
+![VBA_Challenge_2017](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+**Daily Volume**
+Between 2017 and 2018, there seemed to be a spiked interest in Environmental, Social, and Governance (ESG) investing. As illustrated in the image below, "AY" had a significantly higher total daily volume than any other stock in 2017, but in 2018 there were 5 stocks ("RUN","SEDG","SPWR","TERP","VSLR") that outpaced "AY" in total daily volume.
+
+**Return**
+In 2017, the rate of return looks stable to high, ranging from -7.9% up to 202%. In 2018, the rate of return is markedly down for these green stocks, which are ranging from -61.1% up to 97.9%. The two stocks that catch my eye are "RUN" and "ENPH." These two both yielded a return, while every other green stock took a loss. "RUN" was one of many stocks to see a lot of popularity growth from 2017 to 2018, but still maintained gains, while "ENPH" stayed low volume, but had a relatively steady rate of return.
+
+![Old run time](link)
+![Old run time](link)
+
+Compared to the time above, my re-factored code ran at ?, shaving off ? time for 2017 and ? time for 2018
+
+![Old Code Comparison 1]()
+![New Code Comparison 1]()
+
+![Old Code Comparison 2]()
+![New Code Comparison 2]()
+
+
 
 ## Summary of Advantage and Disadvantage of VBA Re-factoring
 
