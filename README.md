@@ -37,9 +37,15 @@ Time saved: 0.6875 seconds
 
 **How did the code change?**
 
+The greatest change from the intial practice code created throughout our modules and the refactored code was the consolidation of multiple macros, as pictured below. 
+![]()
+![]()
+![]()
+![]()
 
-![VBA_Original_1_to_3_Comparison](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_1_to_3_Comparison.png)
-![VBA_Original_4_Comparison](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_4_Comparison.png)
+
+Rather than one macro to create the worksheet and table, one to enter data, and one to format the table.
+
 
 ![VBA_Refactored_1_to_3](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Refactor_1_to_3.png)
 ![VBA Refactored_4](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Refactor_4.png)
