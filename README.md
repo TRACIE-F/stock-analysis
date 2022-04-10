@@ -37,18 +37,15 @@ Time saved: 0.6875 seconds
 
 **How did the code change?**
 
-The greatest change from the intial practice code created throughout our modules and the refactored code was the consolidation of multiple macros, as pictured below. 
-![]()
-![]()
-![]()
-![]()
+The greatest change from the intial practice code created throughout our modules and the refactored code was the consolidation of multiple macros, as pictured below. Sub DQAnalysis, Sub AllStocksAnalysis, and Sub formatAllStocksAnalysisTable were consolidated into our refactored macro.
 
+![Original_Code_1](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_1_to_3_Comparison_2.png)
+![Original_Code_2](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_1_to_3_Comparison_3.png)
+![Original_Code_3](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_1_to_3_Comparison_4.png)
 
-Rather than one macro to create the worksheet and table, one to enter data, and one to format the table.
+Rather than one macro to create the worksheet and table, one to enter data, and one to format the table, I consolidated it into a single macro, Sub AllStocksAnalysisRefactored.
 
-
-![VBA_Refactored_1_to_3](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Refactor_1_to_3.png)
-![VBA Refactored_4](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Refactor_4.png)
+![New Code_1](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_1_to_3_Comparison_Macro.png)
 
 
 
