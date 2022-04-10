@@ -45,8 +45,7 @@ The greatest change from the intial practice code created throughout our modules
 
 Rather than one macro to create the worksheet and table, one to enter data, and one to format the table, I consolidated it into a single macro, Sub AllStocksAnalysisRefactored.
 
-![New Code_1](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_1_to_3_Comparison_Macro.png)
-
+![VBA_Refactored_Macro](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Refactored_Macro.png)
 
 
 ## Summary of Advantage and Disadvantage of VBA Re-factoring
