@@ -16,11 +16,22 @@ Between 2017 and 2018, there seemed to be a spiked interest in Environmental, So
 **Return**
 In 2017, the rate of return looks stable to high, ranging from -7.9% up to 202%. In 2018, the rate of return is markedly down for these green stocks, which are ranging from -61.1% up to 97.9%. The two stocks that catch my eye are "RUN" and "ENPH." These two both yielded a return, while every other green stock took a loss. "RUN" was one of many stocks to see a lot of popularity growth from 2017 to 2018, but still maintained gains, while "ENPH" stayed low volume, but had a relatively steady rate of return.
 
-![Old run time](link)
-![Old run time](link)
+![VBA_Original_2017](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_2017.png)
+Original Code for 2017: 0.8242188 seconds
+Versus
+Refactored Code for 2017: 0.1210938 seconds
 
-Compared to the time above, my re-factored code ran at ?, shaving off ? time for 2017 and ? time for 2018
+Time saved: 0.703125 seconds
 
+![VBA_Original_2018](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_2018.png)
+Original Code for 2018: 0.7890625 seconds
+Versus
+Refactored Code for 2018: 0.1015625 seconds
+
+Time saved: 0.6875 seconds
+
+
+**How did the code change?**
 ![Old Code Comparison 1]()
 ![New Code Comparison 1]()
 
