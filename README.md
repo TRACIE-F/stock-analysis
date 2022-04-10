@@ -1,12 +1,13 @@
 # Stock Analysis
-An analysis of green stocks to determine buying behavior.
+An analysis of green stocks to determine buying behavior, including the number of purchases and rate of return.
 
 # Overview of Project: Explain the purpose of this analysis.
-This analysis is to help 
+This analysis is to help determine the best green stock to recommend based on past performance.
 
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-Below are the stock summaries for various green stocks in 2017 and 2018.
+Below are the stock summaries for various green stocks in 2017 and 2018, along with the execution time for the script.
+
 ![VBA_Challenge_2017](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
@@ -18,25 +19,30 @@ In 2017, the rate of return looks stable to high, ranging from -7.9% up to 202%.
 
 ![VBA_Original_2017](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_2017.png)
 Original Code for 2017: 0.8242188 seconds
-Versus
+
+*Versus*
+
 Refactored Code for 2017: 0.1210938 seconds
 
 Time saved: 0.703125 seconds
 
 ![VBA_Original_2018](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_2018.png)
 Original Code for 2018: 0.7890625 seconds
-Versus
+
+*Versus*
+
 Refactored Code for 2018: 0.1015625 seconds
 
 Time saved: 0.6875 seconds
 
-
 **How did the code change?**
-![Old Code Comparison 1]()
-![New Code Comparison 1]()
 
-![Old Code Comparison 2]()
-![New Code Comparison 2]()
+
+![VBA_Original_1_to_3_Comparison](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_1_to_3_Comparison.png)
+![VBA_Original_4_Comparison](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Original_4_Comparison.png)
+
+![VBA_Refactored_1_to_3](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Refactor_1_to_3.png)
+![VBA Refactored_4](https://github.com/TRACIE-F/stock-analysis/blob/main/Resources/VBA_Refactor_4.png)
 
 
 
